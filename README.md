@@ -1,6 +1,6 @@
 # 🚀 Fullstack Django Project
 
-Projeto desenvolvido com Django para estudo e construção de aplicações web completas, seguindo boas práticas de desenvolvimento, organização e versionamento.
+Projeto em desenvolvimento com Django para estudo e construção de aplicações web completas, seguindo boas práticas de desenvolvimento, organização e versionamento.
 
 ---
 
